@@ -1,0 +1,51 @@
+commit 8ec33c6050c58b30d5304729ab1ae7fd772fb088
+Author: Angel0-code <vasquezmiguel90@yahoo.com>
+Date:   Thu Sep 4 15:53:41 2025 -0700
+
+    Resolve merge conflict: Combine favorite food and game
+
+commit ac7e6830bb0b2fcc88572deb2fa72afb44536ffe
+Merge: 16fc340 2587573
+Author: Angel0-code <vasquezmiguel90@yahoo.com>
+Date:   Thu Sep 4 15:49:42 2025 -0700
+
+    Merge branch 'index-fix'
+
+commit 25875738af04e18246703f445112caba3f9bd6de
+Author: Angel0-code <vasquezmiguel90@yahoo.com>
+Date:   Thu Sep 4 15:44:55 2025 -0700
+
+    index-fix: Favorite game Elden Ring
+
+commit 16fc3402b900929c47f6678aa68bbe80d710ce38
+Author: Angel0-code <vasquezmiguel90@yahoo.com>
+Date:   Thu Sep 4 15:35:15 2025 -0700
+
+    main: Favorite food Hamburger
+
+commit a108d63237d3748c5a3d64e5807f2866bcea7213
+Author: Angel0-code <vasquezmiguel90@yahoo.com>
+Date:   Thu Sep 4 15:18:36 2025 -0700
+
+    Added README.md describing the repo
+
+commit 945274dc0e1f89ec96209cf905afb86204ee63c4
+Merge: 1d2bfc0 cf63614
+Author: Angel0-code <vasquezmiguel90@yahoo.com>
+Date:   Thu Sep 4 14:52:11 2025 -0700
+
+    Merge pull request #1 from Angel0-code/info-fill
+    
+    Filled in the blanks
+
+commit cf63614154ea4c6042d1e0b5350460f4abd19033
+Author: Angel0-code <vasquezmiguel90@yahoo.com>
+Date:   Thu Sep 4 14:25:41 2025 -0700
+
+    Filled in the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
